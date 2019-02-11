@@ -12,6 +12,7 @@ const bodyParser = require('body-parser');
  * 接口集合
  * */
 const getHomeInfo = require("./requester/getHomeInfo");
+const getMain = require("./requester/getMain");
 
 /*
  * 初始化
@@ -37,6 +38,7 @@ app.use(bodyParser.urlencoded({
  * 接口处理集合
  */
 getHomeInfo(app)
+getMain(app)
 
 //启动服务
 app.listen(3001, () => {
