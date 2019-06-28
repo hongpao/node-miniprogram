@@ -1,0 +1,21 @@
+{
+    "code": 1,
+    "data:": [{
+        "phase": "19072",
+        "date": "2019-06-24",
+        "week": "周一",
+        "firstNumber": [2, 4, 6, 9, 18],
+        "lastNumber": [7, 10],
+        "firstPrize": 1,
+        "firstPrizeAdd": 0,
+        "secondPrize": 81,
+        "secondPrizeAdd": 30,
+        "thirdPrize": 322,
+        "fourthPrize": 687,
+        "fifthPrize": 15820,
+        "sixthPrize": 23865,
+        "seventhPrize": 37985,
+        "eighthPrize": 739844,
+        "ninthPrize": 7504578
+    }]
+}
